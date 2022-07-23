@@ -1,4 +1,4 @@
-import os
-from dotenv import load_dotenv
-import yaml
+from infinite import InfiniteBot
 
+bot = InfiniteBot()
+bot.run('')

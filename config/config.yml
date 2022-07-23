@@ -1,9 +1,2 @@
-bot_default_cmd_prefix: "."
-bot_default_activity: online
-bot_default_status_text: ""
-
-bot_uid_permissions:
-  owner:
-    - 189536450809692161
-  developer:
-    - 189536450809692161
+bot_activity: online
+bot_status_text: ""
